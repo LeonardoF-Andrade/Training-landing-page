@@ -1,0 +1,64 @@
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+h1 span {
+  color: #ee24ff;
+}
+
+#girl {
+  margin-top: 64px;
+}
+
+h1 {
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 52px;
+}
+
+p,
+#footer {
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+#hero {
+  width: 626px;
+  margin: 0px auto 64px;
+}
+
+#footer a + a {
+  margin-left: 28px;
+}
+
+.line {
+  width: 391px;
+  height: 0px;
+  border: 1px solid #eceff2;
+  margin: 0 auto 8px;
+}
+
+strong {
+  color: #3f3d56;
+}
+
+a {
+  color: #3f3d56;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+p:last-child {
+  text-shadow: none;
+}
+
+#ondas {
+  bottom: 0px;
+}
